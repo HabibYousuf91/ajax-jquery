@@ -17,3 +17,7 @@ app.listen(process.env.PORT, process.env.IP, function(){
 ```
 
 - Now run your server with `node app.js` or `nodemon` and view the app from the Preview tab in your workspace
+
+- https://en.wikipedia.org/wiki/Single-page_application
+
+- https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
